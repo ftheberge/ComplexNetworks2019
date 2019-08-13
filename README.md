@@ -28,3 +28,9 @@ Graph embedding comparison paper: https://arxiv.org/abs/1906.04562
 
 Hypergraph modularity paper: https://arxiv.org/abs/1810.04816
 
+Tutorial on spectral clustering: http://www.tml.cs.uni-tuebingen.de/team/luxburg/publications/Luxburg07_tutorial.pdf
+
+Regularization framework for graph data: https://www.researchgate.net/publication/41781181_A_Regularization_Framework_for_Learning_from_Graph_Data
+
+Learning with Hypergraphs: https://papers.nips.cc/paper/3128-learning-with-hypergraphs-clustering-classification-and-embedding.pdf
+
