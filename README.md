@@ -7,7 +7,7 @@ Poster: http://128.100.216.27/sites/default/files/CQAM_SummerSchoolDataScienceTo
 
 ## Useful links:
 
-I will is illustrate the talks via Anaconda using Jupyter notebooks and Python 3 code:
+I will illustrate the talks using Jupyter notebooks and Python 3 code:
 https://www.anaconda.com/distribution/
 
 I will use stardard packages (numpy, pandas ..) plus igraph, networkx and umap.
