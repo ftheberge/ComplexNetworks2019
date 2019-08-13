@@ -34,3 +34,6 @@ Regularization framework for graph data: https://www.researchgate.net/publicatio
 
 Learning with Hypergraphs: https://papers.nips.cc/paper/3128-learning-with-hypergraphs-clustering-classification-and-embedding.pdf
 
+Chung-Lu model: https://e-reports-ext.llnl.gov/pdf/802505.pdf
+
+
