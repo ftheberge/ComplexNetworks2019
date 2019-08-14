@@ -36,6 +36,8 @@ Learning with Hypergraphs: https://papers.nips.cc/paper/3128-learning-with-hyper
 
 Chung-Lu model: https://e-reports-ext.llnl.gov/pdf/802505.pdf
 
+Topological features: Orman et al., https://arxiv.org/abs/1206.4987
+
 ## Datasets
 
 Football dataset: M. Girvan and M. E. J. Newman, Community structure in social and biological networks, Proc. Natl. Acad. Sci. USA 99, 7821-7826 (2002). http://www-personal.umich.edu/~mejn/netdata/
