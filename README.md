@@ -38,6 +38,9 @@ Chung-Lu model: https://e-reports-ext.llnl.gov/pdf/802505.pdf
 
 Topological features: Orman et al., https://arxiv.org/abs/1206.4987
 
+Z. Yang et al, A Comparative Analysis of Community Detection Algorithms on Artificial Networks, Scientific Reports volume 6, Article number: 30750 (2016) https://www.nature.com/articles/srep30750
+
+
 ## Datasets
 
 Football dataset: M. Girvan and M. E. J. Newman, Community structure in social and biological networks, Proc. Natl. Acad. Sci. USA 99, 7821-7826 (2002). http://www-personal.umich.edu/~mejn/netdata/
