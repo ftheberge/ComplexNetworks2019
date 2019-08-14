@@ -44,6 +44,6 @@ Karate Club dataset:  Zachary, W. W. An information flow model for conflict and 
 
 LFR generator: https://github.com/eXascaleInfolab/LFR-Benchmark_UndirWeightOvp
 
-YouTube and EU Core datasets: J. Leskovec, A. Krevl. SNAP Datasets: Stanford Large Network Dataset Colection, http://snap.stanford.edu/data/
+YouTube and other datasets: J. Leskovec, A. Krevl. SNAP Datasets: Stanford Large Network Dataset Colection, http://snap.stanford.edu/data/
 
 
