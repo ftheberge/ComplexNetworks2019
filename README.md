@@ -36,4 +36,14 @@ Learning with Hypergraphs: https://papers.nips.cc/paper/3128-learning-with-hyper
 
 Chung-Lu model: https://e-reports-ext.llnl.gov/pdf/802505.pdf
 
+## Datasets
+
+Football dataset: M. Girvan and M. E. J. Newman, Community structure in social and biological networks, Proc. Natl. Acad. Sci. USA 99, 7821-7826 (2002). http://www-personal.umich.edu/~mejn/netdata/
+
+Karate Club dataset:  Zachary, W. W. An information flow model for conflict and fission in small groups. Journal of Anthropological Research 33, 452-473 (1977). http://www-personal.umich.edu/~mejn/netdata/
+
+LFR generator: https://github.com/eXascaleInfolab/LFR-Benchmark_UndirWeightOvp
+
+YouTube and EU Core datasets: J. Leskovec, A. Krevl. SNAP Datasets: Stanford Large Network Dataset Colection, http://snap.stanford.edu/data/
+
 
