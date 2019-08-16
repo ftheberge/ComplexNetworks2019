@@ -14,6 +14,10 @@ I will use stardard packages (numpy, pandas ..) plus igraph, networkx and umap.
 
 ##conda install -c conda-forge python-igraph 
 
+Python igraph documentation: https://igraph.org/python/
+
+Upcoming book with nexworkx examples: https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience
+
 ## Reference papers and code:
 
 ECG papers: https://rdcu.be/bLn9i and https://arxiv.org/abs/1809.05578
