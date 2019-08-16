@@ -61,7 +61,9 @@ import networkx as nx, igraph as ig
 # create networkx graph
 g1 = nx.planted_partition_graph(5, 5, 0.9, 0.1)
 # convert and plot
-g = ig.Graph(len(g1), list(zip(*list(zip(*nx.to_edgelist(g1)))[:2])))
+g = ig.Graph(directed=False)
+g.add_vertices(g1.nodes())
+g.add_edges(g1.edges())
 ```
 Upcoming book with networkx examples: https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience
 
