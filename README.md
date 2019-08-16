@@ -16,8 +16,6 @@ I will use stardard packages (numpy, pandas ..) plus igraph, networkx and umap.
 
 Python igraph documentation: https://igraph.org/python/
 
-Upcoming book with nexworkx examples: https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience
-
 ## Reference papers and code:
 
 ECG papers: https://rdcu.be/bLn9i and https://arxiv.org/abs/1809.05578
@@ -55,4 +53,15 @@ LFR generator: https://github.com/eXascaleInfolab/LFR-Benchmark_UndirWeightOvp
 
 YouTube and other datasets: J. Leskovec, A. Krevl. SNAP Datasets: Stanford Large Network Dataset Colection, http://snap.stanford.edu/data/
 
+## networkx
+
+networkx graphs can be transformed into igraph format via:
+```
+import networkx as nx, igraph as ig
+# create networkx graph
+g1 = nx.planted_partition_graph(5, 5, 0.9, 0.1)
+# convert and plot
+g = ig.Graph(len(g1), list(zip(*list(zip(*nx.to_edgelist(g1)))[:2])))
+```
+Upcoming book with networkx examples: https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience
 
