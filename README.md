@@ -16,6 +16,9 @@ I will use stardard packages (numpy, pandas ..) plus igraph, networkx and umap.
 
 Python igraph documentation: https://igraph.org/python/
 
+For Windows users, you may need one of the following:
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#python-igraph
+
 ## Reference papers and code:
 
 ECG papers: https://rdcu.be/bLn9i and https://arxiv.org/abs/1809.05578
