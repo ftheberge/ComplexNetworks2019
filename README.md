@@ -16,8 +16,14 @@ I will use stardard packages (numpy, pandas ..) plus igraph, networkx and umap.
 
 Python igraph documentation: https://igraph.org/python/
 
-For Windows users, you may need one of the following:
+For Windows users, you may need one of the following (thank to participants for input):
+
 https://www.lfd.uci.edu/~gohlke/pythonlibs/#python-igraph
+
+https://anaconda.org/marufr/python-igraph
+
+https://anaconda.org/vtraag/python-igraph
+
 
 ## Reference papers and code:
 
